@@ -1,4 +1,4 @@
-# Create a screen recorder using python
+# How to create a screen and webcam recorder using python
 [Read here](https://medium.com/p/21c407277d42)
 ![image](https://cdn-images-1.medium.com/max/800/1*ebYm1JJrI5IqyKxjukBb7g.jpeg) 
 
