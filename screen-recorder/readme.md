@@ -1,5 +1,7 @@
 # How to create a screen and webcam recorder using python
-[Read here](https://medium.com/p/21c407277d42)
+
+[Click here to read](https://medium.com/p/21c407277d42)
+
 ![image](https://cdn-images-1.medium.com/max/800/1*ebYm1JJrI5IqyKxjukBb7g.jpeg) 
 
 Create a smart screen recording software like `OBS studio` and `Camtasia with just 25 lines of python this is super easy super fun and super crazy.
